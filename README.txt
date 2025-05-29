@@ -14,4 +14,7 @@ e LIFO (Last-In, First-Out).
 ## Estrutura do Projeto
 
 O projeto está organizado em pacotes Java, refletindo as diferentes responsabilidades 
-de cada classe:
+de cada classe.
+
+Para realizar o teste de Impressão execute o arquivo SistemaImpressora.java, já para o 
+teste de Reimpressão execute o arquivo SistemaReimpressao.java.
